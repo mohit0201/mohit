@@ -9,6 +9,8 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    var a = "bharat mata ki jai"
 
     override func viewDidLoad() {
         super.viewDidLoad()
